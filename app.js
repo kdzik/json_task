@@ -165,7 +165,6 @@ function setCall(){
         call()
             .then(data => {
                 let titles = [];
-                console.log(data);
                 for (let i = 0; i < data.length; i++) {
                     countPosts(data[i]);
                     addClosest(data, data[i]);
