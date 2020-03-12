@@ -1,0 +1,58 @@
+[
+    {
+      "id": 1,
+      "name": "Kamil D",
+      "username": "Kamil",
+      "address": {
+        "geo": {
+          "lat": "-10",
+          "lng": "20"
+        }
+      }
+    },
+    {
+        "id": 2,
+        "name": "Michal P",
+        "username": "Michal",
+        "address": {
+          "geo": {
+            "lat": "40",
+            "lng": "40"
+          }
+        }
+      },
+      {
+        "id": 3,
+        "name": "John D",
+        "username": "John",
+        "address": {
+          "geo": {
+            "lat": "-50",
+            "lng": "-30"
+          }
+        }
+      },
+      {
+        "id": 4,
+        "name": "Lukasz X",
+        "username": "Lukasz",
+        "address": {
+          "geo": {
+            "lat": "20",
+            "lng": "30"
+          }
+        }
+      },
+      {
+        "id": 5,
+        "name": "Piotr K",
+        "username": "Piotr",
+        "address": {
+          "geo": {
+            "lat": "21",
+            "lng": "31"
+          }
+        }
+      }
+   
+]
